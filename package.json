@@ -1,0 +1,1 @@
+{"name":"ascend-valorant","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node scripts/serve.mjs","train":"node scripts/train.mjs","test":"node scripts/verify.mjs"}}
